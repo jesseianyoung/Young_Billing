@@ -12,6 +12,3 @@ function billingFunction() {
     }
 
 }
-function verify(){
-    alert("Verify Success")
-}
